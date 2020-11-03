@@ -1,5 +1,6 @@
 <!-- ix-docs-ignore -->
 ![imgix logo](https://assets.imgix.net/sdk-imgix-logo.svg)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fgodeepakm%2Fimgix-csharp.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fgodeepakm%2Fimgix-csharp?ref=badge_shield)
 
 `imgix-csharp` is a client library for generating image URLs with [imgix](https://www.imgix.com/). 
 
@@ -263,3 +264,7 @@ var builder = new UrlBuilder("domain.imgix.net", includeLibraryParam: false);
 
 ## Code of Conduct
 Users contributing to or participating in the development of this project are subject to the terms of imgix's [Code of Conduct](https://github.com/imgix/code-of-conduct).
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fgodeepakm%2Fimgix-csharp.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fgodeepakm%2Fimgix-csharp?ref=badge_large)
